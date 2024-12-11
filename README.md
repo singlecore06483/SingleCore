@@ -1,15 +1,15 @@
 # Writed by SingleCore
 
-This tool uses 18 popular tools for information gathring, explotation, wireless testing, password attacks,
-sniffing and spoofing.
+This tool uses `18` popular tools for `information gathring, explotation, wireless testing, password attacks,
+sniffing and spoofing`.
 
 you can install and update tools in it.
-but just first install requirements.txt.
+but just first install `requirements.txt`.
 
 # How to install requirements.txt
 
 
-here is how you need to install requirements.txt that is so easy to do.
+here is how you need to install `requirements.txt` that is so easy to do.
 
 you need to install it with pip, 
 by writing: 
@@ -32,9 +32,9 @@ python3 singlecore.py
 
 # What kind of OS this tool support
 
-this tool just supports linux.
+this tool just supports `linux`.
 
-Kali Linux, Ubuntu, Debain and more...
+`Kali Linux, Ubuntu, Debain` and more...
 
 # Have good day with singlecore tool
 
@@ -52,7 +52,7 @@ Kali Linux, Ubuntu, Debain and more...
 This tool for educational purposes only!
 
 
-if you find some bugs or errors tell us to fix it.
+if you find some `bugs` or `errors` tell us to fix it.
 
 ----------------------------------------------------------------------------------------------------
 
