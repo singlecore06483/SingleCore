@@ -53,3 +53,10 @@ This tool for educational purposes only!
 
 
 if you find some bugs or errors tell us to fix it.
+
+----------------------------------------------------------------------------------------------------
+
+if you like this tool, you can charge us.
+```
+UQCw5Uwcc-oBO6Zb_GOIMevxQwFcHzg560LyUhh2nTOjdV-6
+```
