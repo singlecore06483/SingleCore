@@ -56,8 +56,9 @@ if you find some `bugs` or `errors` tell us to fix it.
 
 ----------------------------------------------------------------------------------------------------
 ```
-bleave in your self,
-never let people,
-to put you down.
+Malevolent code crawled through cybernetic veins,
+consuming every digital defence mechanism In Darkness,
+Alone.
+No system is safe.
 --single core--
 ```
